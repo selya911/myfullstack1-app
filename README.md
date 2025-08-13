@@ -92,52 +92,29 @@ Edit
 1. Navigate to backend folder:
 ```bash
 cd backend
-Install dependencies:
-
-bash
-Copy
-Edit
+2. Install dependencies:
 npm install
-Start server in development mode:
-
-bash
-Copy
-Edit
+3. Start server in development mode:
 npm run dev
-Server runs on http://localhost:5000 by default
-
-Test API endpoint:
-
-bash
-Copy
-Edit
+4. Test API endpoint:
 GET http://localhost:5000/api/topic
-Frontend Setup
-Navigate to frontend folder:
 
-bash
-Copy
-Edit
+### Frontend Setup
+1. Navigate to frontend folder:
+```bash
 cd frontend
-Install dependencies:
-
-bash
-Copy
-Edit
+2. Install dependencies:
+```bash
 npm install
-Start frontend:
+3. Start frontend:
+```bash
+npm run dev
 
-bash
-Copy
-Edit
-npm start
-Frontend runs on http://localhost:3000 by default
-
-API Endpoints
+**API Endpoints**
 Method	Endpoint	Description
 GET	/api/topic	Returns a random topic string
 
-Features
+**Features**
 Fully structured full-stack project
 
 Express server capable of handling API requests
@@ -148,7 +125,7 @@ Random topic generator API endpoint
 
 Modular folder structure for easy scalability
 
-Future Enhancements
+**Future Enhancements**
 Implement React frontend to display topics dynamically
 
 Add user authentication (signup/login)
@@ -161,7 +138,7 @@ Add unit and integration testing
 
 Deploy project using Heroku, Vercel, or AWS
 
-Author
+**Author**
 Your Name – Full-Stack Developer
 
 GitHub: https://github.com/username
@@ -170,5 +147,4 @@ LinkedIn: https://www.linkedin.com/in/username
 
 Email: your.email@example.com
 
-License
-This project is licensed under the MIT License.
+
