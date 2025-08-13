@@ -90,13 +90,11 @@ Edit
 
 ### Backend Setup
 1. Navigate to backend folder:
-```bash
-cd backend
+
 2. Install dependencies:
-'''bash
-npm install
+
 3. Start server in development mode:
-npm run dev
+
 4. Test API endpoint:
 GET http://localhost:5000/api/topic
 
@@ -105,14 +103,11 @@ GET http://localhost:5000/api/topic
 
 ### Frontend Setup
 1. Navigate to frontend folder:
-```bash
-cd frontend
+
 2. Install dependencies:
-```bash
-npm install
+
 3. Start frontend:
-```bash
-npm run dev
+
 
 **API Endpoints**
 Method	Endpoint	Description
