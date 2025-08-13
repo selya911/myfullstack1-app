@@ -114,36 +114,36 @@ Method	Endpoint	Description
 GET	/api/topic	Returns a random topic string
 
 **Features**
-Fully structured full-stack project
+1. Fully structured full-stack project
 
-Express server capable of handling API requests
+2. Express server capable of handling API requests
 
-Random topic generator API endpoint
+3. Random topic generator API endpoint
 
-.gitignore to ignore unnecessary and sensitive files
+4. .gitignore to ignore unnecessary and sensitive files
 
-Modular folder structure for easy scalability
+5. Modular folder structure for easy scalability
 
 **Future Enhancements**
-Implement React frontend to display topics dynamically
+1. Implement React frontend to display topics dynamically
 
-Add user authentication (signup/login)
+2. Add user authentication (signup/login)
 
-Replace static JSON with database support (PostgreSQL/MySQL)
+3. Replace static JSON with database support (PostgreSQL/MySQL)
 
-Integrate OpenAI API for dynamic topic suggestions
+4. Integrate OpenAI API for dynamic topic suggestions
 
-Add unit and integration testing
+5. Add unit and integration testing
 
-Deploy project using Heroku, Vercel, or AWS
+6. Deploy project using Heroku, Vercel, or AWS
 
 **Author**
 Your Name – Full-Stack Developer
 
-GitHub: https://github.com/username
+GitHub: https://github.com/selya911
 
 LinkedIn: https://www.linkedin.com/in/username
 
-Email: your.email@example.com
+Email: selyadharsneem.24mca@kongu.edu
 
 
