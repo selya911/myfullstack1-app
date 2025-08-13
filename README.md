@@ -93,11 +93,15 @@ Edit
 ```bash
 cd backend
 2. Install dependencies:
+'''bash
 npm install
 3. Start server in development mode:
 npm run dev
 4. Test API endpoint:
 GET http://localhost:5000/api/topic
+
+
+---
 
 ### Frontend Setup
 1. Navigate to frontend folder:
