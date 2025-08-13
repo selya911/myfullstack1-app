@@ -138,7 +138,7 @@ GET	/api/topic	Returns a random topic string
 6. Deploy project using Heroku, Vercel, or AWS
 
 **Author**
-Your Name – Full-Stack Developer
+M.selya dharsnee – Full-Stack Developer
 
 GitHub: https://github.com/selya911
 
